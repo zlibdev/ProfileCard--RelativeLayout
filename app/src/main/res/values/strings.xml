@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="avisena">Avisena</string>
+    <string name="txt_status">9 Grade Junior High School Student At IDN Boarding School Solo.</string>
+    <string name="txt_birth"> Bengkulu, 18 April 2009</string>
+    <string name="birth">Birth :</string>
+    <string name="nama">Enver Avicena</string>
+    <string name="semarang">Semarang</string>
+    <string name="_5290">5290</string>
+    <string name="follower">Follower</string>
+    <string name="_1090">1090</string>
+    <string name="following">Following</string>
+    <string name="_109">109</string>
+    <string name="project">Project</string>
+    <string name="_34">34</string>
+    <string name="experience">Experience</string>
+
+</resources>
